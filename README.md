@@ -8,19 +8,12 @@ This repository contains the design and implementation of a hardware component c
 - **Operations Supported:** AND, OR, NAND, NOR, XOR, XNOR, Addition, Subtraction, Multiplication, Comparisons (>, <, >=, <=, ==, !=)
 - **Verification:** Manual calculations and simulation waveforms
 
-## Repository Structure
-
-- `src/`: Verilog source code for the computational units and top-level module
-- `testbench/`: Testbench files for simulation and verification
-- `docs/`: Project documentation, including the report and block diagrams
-- `results/`: Simulation waveforms and schematic images
 
 ## How to Use
 
 1. Clone the repository.
 2. Open the source code in your HDL tool (Vivado, ModelSim, etc.).
 3. Run the testbenches to verify functionality.
-4. Review the documentation in the `docs/` folder for design details and results.
 
 ## Author
 
